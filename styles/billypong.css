@@ -1,0 +1,46 @@
+
+.pictures {
+    padding-bottom: 15px;
+}
+
+.navbar {
+    font-size: 20px;
+    padding: 0%;
+    padding-left: 50px;
+}
+
+.navbar-brand {
+    font-size: 30px;
+}
+
+.collapse {
+    padding-left: 80px;
+}
+
+.nav-item {
+    padding: 0px 40px 0px 40px;
+}
+
+body {
+    margin: 0;      
+}
+
+
+.row {
+    padding-top: 30px;
+}
+
+iframe {
+    padding-top: 50px;
+    display: block;
+    width: 500px;
+    height: 450px;
+    margin: auto;
+    border: 0;
+}
+
+.game {
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+    background-position: center;
+}

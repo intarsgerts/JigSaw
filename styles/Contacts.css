@@ -1,0 +1,41 @@
+
+h1 {
+    text-align: center;
+    color: white;
+    padding-top: 5%
+}
+
+.jumbotron {
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 10%;
+
+}
+
+.pictures {
+    padding-bottom: 15px;
+}
+
+.navbar {
+    font-size: 20px;
+    padding: 0%;
+    padding-left: 50px;
+}
+
+.navbar-brand {
+    font-size: 30px;
+}
+
+.collapse {
+    padding-left: 80px;
+}
+
+.nav-item {
+    padding: 0px 40px 0px 40px;
+}
+
+.display-4 {
+    font-family: 'Allerta Stencil', sans-serif;
+    font-size: 30px;
+}
